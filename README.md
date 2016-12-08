@@ -35,10 +35,11 @@ Cara Menjalankan Sistem Perpustakaan XYZ
 3. Sistem Perpustakaan XYZ siap digunakan. (note : apabila FrameServer.java dimatikan secara tiba"
    maka koneksi server antara Server dan Client akan terputus).
    
-Fitur - fitur Sistem Perpuskaan XYZ :
+Fitur - fitur Sistem Perpustakaan XYZ :
 - Fitur CRUD (Create, Retrieve, Update, Delete) pada modul buku dan anggota.
 - Pencarian buku sesuai dengan kode buku, judul buku, penulis, penerbit, tahun terbit, dan nomor rak.
 - Pencarian anggota sesuai dengan kode anggota, nama anggota dan email.
+- Sistem peminjaman/pengembalian buku oleh anggota.
 - Pencarian transaksi peminjaman sesuai dengan kode pinjam, kode buku dan kode anggota.
 - Terdapat modul histori peminjaman/pengembalian buku, histori anggota dan histori buku.
 - Pencarian Histori peminjaman/pengembalian bedasarkan tanggal pinjam, tanggal kembali.
