@@ -24,7 +24,7 @@ ingin melakukan peminjaman, maka anggota tersebut harus melakukan pengembalian b
 setiap peminjaman buku yang dipinjam oleh anggota. Apabila peminjaman buku melewati tanggal batas waktu pinjam, maka anggota
 tersebut dikenakan denda Rp 1.000/hari. Setiap peminjaman/pengembalian buku disesuaikan dengan jumlah stok buku yang ada dalam
 sistem. Apabila dilakukan transaksi peminjaman maka jumlah stok berkurang, begitu juga sebaliknya apabila dilakukan transaksi
-pengembalian buku makan jumlah stok bertambah.
+pengembalian buku maka jumlah stok bertambah.
 
 Cara Menjalankan Sistem Perpustakaan XYZ
 1. Pertama run/jalankan FrameServer.Java, pastikan komputer terhubung dengan jaringan LAN.
